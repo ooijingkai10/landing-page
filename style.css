@@ -64,13 +64,14 @@ h3 {
 img {
   height: 100px;
   width: 100px;
-  border: solid #1f2937;
+  border: solid black;
+  border-radius: 10px;
 }
 
 .content {
   color: black;
   display: flex;
-  justify-content: center;
+  justify-content: space-around;
   align-items: center;
   gap: 52px;
   margin-left: 200px;
